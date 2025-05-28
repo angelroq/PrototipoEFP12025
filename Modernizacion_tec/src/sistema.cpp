@@ -85,6 +85,7 @@ void sistema::menuGeneral()
 
     case 4:
         cout<<"Saliendo del sistema....."<<endl;
+        exit(0);
         break;
     }
 

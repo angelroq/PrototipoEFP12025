@@ -693,7 +693,7 @@
 	<ctime>
 	<limits>
 
-1748449821 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\main.cpp
+1748454005 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\main.cpp
 	<iostream>
 	<fstream>
 	<limits>
@@ -777,7 +777,7 @@
 1747522296 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\prestaciones.h
 	<string>
 
-1748450660 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\sistema.cpp
+1748454005 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\sistema.cpp
 	"sistema.h"
 	"Opciones.h"
 	"bitacora.h"

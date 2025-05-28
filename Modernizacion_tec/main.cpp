@@ -83,6 +83,7 @@ int main()
         case 4:
             // Salir del sistema
             cout << "Saliendo del sistema..." << endl;
+
             break;
     }
 
