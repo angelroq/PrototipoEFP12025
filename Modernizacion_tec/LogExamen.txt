@@ -1,0 +1,29 @@
+commit b83468e3210cb8d45c8812a2da8fc9d0239191a6
+Author: [Angel <[aroquelm1@miumg.edu.gt]>
+Date:   Wed May 28 11:44:59 2025 -0600
+
+    Actualizacion
+
+commit cdf177546e274fc10a75499662da6c6c1f202b39
+Author: [Angel <[aroquelm1@miumg.edu.gt]>
+Date:   Wed May 28 11:32:11 2025 -0600
+
+    Correciones
+
+commit 854660f5d706639cc58e36ee2213f017606604fd
+Author: [Angel <[aroquelm1@miumg.edu.gt]>
+Date:   Wed May 28 10:55:59 2025 -0600
+
+    Implementación del sub menu catalogo
+
+commit f4c502e0bb4350bc8d706390785b59330a4a66eb
+Author: [Angel <[aroquelm1@miumg.edu.gt]>
+Date:   Wed May 28 10:28:58 2025 -0600
+
+    Implementacion de seguridad y menu general
+
+commit b2694ba78264208758d0a508b52c74ac2a5183ec
+Author: angelandroq <aroquelm1@miumg.edu.gt>
+Date:   Wed May 28 09:53:22 2025 -0600
+
+    Initial commit
