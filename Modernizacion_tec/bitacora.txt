@@ -1,4 +1,17 @@
-"Angel","7000","Cons",2025-05-22 18:35:12
-"Angel","7001","Cons",2025-05-22 18:35:30
-"Angel","7002","Ing",2025-05-22 18:35:36
-"Angel","7003","Cons",2025-05-22 18:35:42
+commit 854660f5d706639cc58e36ee2213f017606604fd
+Author: [Angel <[aroquelm1@miumg.edu.gt]>
+Date:   Wed May 28 10:55:59 2025 -0600
+
+    Implementación del sub menu catalogo
+
+commit f4c502e0bb4350bc8d706390785b59330a4a66eb
+Author: [Angel <[aroquelm1@miumg.edu.gt]>
+Date:   Wed May 28 10:28:58 2025 -0600
+
+    Implementacion de seguridad y menu general
+
+commit b2694ba78264208758d0a508b52c74ac2a5183ec
+Author: angelandroq <aroquelm1@miumg.edu.gt>
+Date:   Wed May 28 09:53:22 2025 -0600
+
+    Initial commit

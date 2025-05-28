@@ -719,13 +719,13 @@
 	<iomanip>
 	<filesystem>
 
-1748450850 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\sistema.h
+1748453366 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\sistema.h
 	<fstream>
 	<vector>
 	<limits>
 	<string>
 
-1748450850 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\bitacora.cpp
+1748452400 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\bitacora.cpp
 	"bitacora.h"
 	<iostream>
 	<fstream>
@@ -735,7 +735,7 @@
 	<limits>
 	"sistema.h"
 
-1748449821 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\empleados.cpp
+1748453366 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\empleados.cpp
 	"Empleados.h"
 	<iostream>
 	<fstream>

@@ -76,7 +76,7 @@ void sistema::menuGeneral()
         break;
 
     case 2:
-
+        cout<<"En desarollo"<<endl;
         break;
 
     case 3:
