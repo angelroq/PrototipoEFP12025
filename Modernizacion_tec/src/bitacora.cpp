@@ -5,7 +5,8 @@
 #include <iomanip>
 #include <ctime>
 #include <limits>
-
+#include "sistema.h"
+sistema regresar;
 using namespace std;
 //Isaias Cedillo (9959-24-1672) "IsaC8-bit"
 // Muestra el menú principal del sistema de bitácora
@@ -52,6 +53,8 @@ void bitacora::menu()
                 break;
             }
             case 3:
+                system("cls");
+                regresar.menuGeneral();
                 break; // Salir del programa
             default:
                 cout << "\n\t\t\t Opción invalida...Por favor prueba otra vez..";

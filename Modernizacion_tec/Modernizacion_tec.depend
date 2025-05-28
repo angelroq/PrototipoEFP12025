@@ -693,7 +693,7 @@
 	<ctime>
 	<limits>
 
-1748449501 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\main.cpp
+1748449821 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\main.cpp
 	<iostream>
 	<fstream>
 	<limits>
@@ -702,13 +702,13 @@
 	"bitacora.h"
 	"sistema.h"
 
-1747837750 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\opciones.h
+1748449821 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\opciones.h
 	<iostream>
 
-1747007819 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\usuarios.h
+1748449821 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\usuarios.h
 	<iostream>
 
-1747959721 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\bitacora.h
+1748449821 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\bitacora.h
 	<iostream>
 	<fstream>
 	<string>
@@ -719,13 +719,13 @@
 	<iomanip>
 	<filesystem>
 
-1748449413 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\sistema.h
+1748450850 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\sistema.h
 	<fstream>
 	<vector>
 	<limits>
 	<string>
 
-1748448717 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\bitacora.cpp
+1748450850 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\bitacora.cpp
 	"bitacora.h"
 	<iostream>
 	<fstream>
@@ -733,8 +733,9 @@
 	<iomanip>
 	<ctime>
 	<limits>
+	"sistema.h"
 
-1747959721 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\empleados.cpp
+1748449821 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\empleados.cpp
 	"Empleados.h"
 	<iostream>
 	<fstream>
@@ -749,7 +750,7 @@
 	<filesystem>
 	"bitacora.h"
 
-1747959721 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\empleados.h
+1748449821 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\empleados.h
 	<vector>
 	<iostream>
 	<fstream>
@@ -776,9 +777,10 @@
 1747522296 c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\include\prestaciones.h
 	<string>
 
-1747959721 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\sistema.cpp
+1748450660 source:c:\users\angel r\documents\ef_progra\prototipoefp12025\modernizacion_tec\src\sistema.cpp
 	"sistema.h"
 	"Opciones.h"
+	"bitacora.h"
 	<iostream>
 	<fstream>
 	<conio.h>

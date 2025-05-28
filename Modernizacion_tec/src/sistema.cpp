@@ -1,6 +1,6 @@
 #include "sistema.h"
 #include "Opciones.h"
-#
+#include "bitacora.h"
 #include <iostream>
 #include <fstream>
 #include <conio.h>
@@ -8,7 +8,7 @@
 #include <vector>
 //Realizado por ANGEL ROQUEL y Modificado por Roli Cedillo
 Opciones opcion; // Se crea un objeto global de la clase Opciones
-
+bitacora security;
 sistema::sistema()
 {
 
@@ -18,9 +18,47 @@ sistema::~sistema()
 {
 
 }
+void sistema::subMenu()
+{
+    int eleccion;
+    cout<<"SUB MENU"<<endl<<endl;
+    cout<<"1. Altas"<<endl;
+    cout<<"2. Bajas"<<endl;
+    cout<<"3. Modificaciones"<<endl;
+    cout<<"4. Consultas"<<endl;
+    cout<<"5. Regresar"<<endl;
+    cin >> eleccion;
+    switch (eleccion)
+    {
+    case 1:
+        system("cls");
+        cout<<"En mantenimiento..."<<endl;
+        system("pause");
+        break;
+    case 2:
+        system("cls");
+        cout<<"En mantenimiento..."<<endl;
+        system("pause");
+        break;
+    case 3:
+        system("cls");
+        cout<<"En mantenimiento..."<<endl;
+        system("pause");
+        break;
+    case 4:
+        system("cls");
+        cout<<"En mantenimiento..."<<endl;
+        system("pause");
+        break;
+    case 5:
+        system("cls");
+        menuGeneral();
+        break;
+
+    }
+}
 void sistema::menuGeneral()
 {
-    system("cls");
     int menu;
     cout<<"Menu general"<<endl<<endl;
     cout<<"1. Catalogos "<<endl;
@@ -30,6 +68,25 @@ void sistema::menuGeneral()
     cin>>menu;
     do
     {
+    switch (menu)
+    {
+    case 1:
+    system("cls");
+      subMenu();
+        break;
+
+    case 2:
+
+        break;
+
+    case 3:
+        security.menu();
+        break;
+
+    case 4:
+        cout<<"Saliendo del sistema....."<<endl;
+        break;
+    }
 
     }while(menu!=4);
 }
@@ -130,6 +187,9 @@ void sistema::ingresarUsuario() {
                 cout << "Ingreso exitoso." << endl;
                 encontrado = true;
                 archivo.close();
+                system("cls");
+                cout <<"Angel Andres Roquel Mejia 9959 24 1622"<<endl<<endl;
+                cout <<"Usuario registrado "<<nombre<<endl<<endl;
                 menuGeneral();
                 return;
             }

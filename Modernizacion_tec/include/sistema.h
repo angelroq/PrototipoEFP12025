@@ -19,6 +19,7 @@ public:
     void ingresarUsuario();
     void mostrarUsuarios();
     void menuGeneral();
+    void subMenu();
     string getUsuarioActual() const { return usuarioActual; }
 
 private:
